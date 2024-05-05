@@ -1,1 +1,1 @@
-alert("hello there")
+alert("hello and welcome from kwame")
